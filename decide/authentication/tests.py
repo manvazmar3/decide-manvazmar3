@@ -8,6 +8,11 @@ from rest_framework.authtoken.models import Token
 from base import mods
 
 
+
+
+
+
+
 class AuthTestCase(APITestCase):
 
     def setUp(self):
